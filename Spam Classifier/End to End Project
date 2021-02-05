@@ -1,1 +1,5 @@
 
+This is a End to End deep learning natural language processsing project.
+Model was made with the help of RNN and Lstm
+Web app was made using Streamlit
+Model was deployed on heroku
